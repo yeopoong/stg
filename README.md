@@ -1,6 +1,8 @@
-# Smart Tour Guide
+# Heroku with Node.js
 
-## github repository
+## Prepare the app 
+
+Prepare a application that can be deployed.
 ```
 $ git clone https://github.com/yeopoong/stg.git
 $ git add .
@@ -9,6 +11,8 @@ $ git push
 ```
 
 ## heroku app create
+
+Create an app on Heroku
 ```
 $ heroku create smart-tour-guide
 ```
